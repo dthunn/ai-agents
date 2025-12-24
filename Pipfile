@@ -9,6 +9,10 @@ langchain = "*"
 langchain-openai = "*"
 ipython = "*"
 pydantic = "*"
+langgraph = "*"
+langchain-community = "*"
+python-dotenv = "*"
+openai = "*"
 
 [dev-packages]
 
