@@ -13,6 +13,7 @@ langgraph = "*"
 langchain-community = "*"
 python-dotenv = "*"
 openai = "*"
+grandalf = "*"
 
 [dev-packages]
 
